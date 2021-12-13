@@ -1,0 +1,23 @@
+{
+  "name": "uni-fetch",
+  "version": "1.0.0",
+  "description": "A fetch-like API for uniapp ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bibiuc/uni-fetch.git"
+  },
+  "keywords": [
+    "uniapp",
+    "fetch"
+  ],
+  "author": "kiduc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bibiuc/uni-fetch/issues"
+  },
+  "homepage": "https://github.com/bibiuc/uni-fetch#readme"
+}
