@@ -1,5 +1,5 @@
 {
-  "name": "@kiduc/uni-fetch",
+  "name": "@bibiuc/uni-fetch",
   "version": "1.0.0",
   "description": "A fetch-like API for uniapp ",
   "main": "src/index.js",
